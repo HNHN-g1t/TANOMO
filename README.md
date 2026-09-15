@@ -14,6 +14,14 @@
 | [tsumeru](skills/tsumeru/SKILL.md) | 仕様を詰め切る | 作り始める前。分岐が多い・前提が曖昧なとき |
 | [yasumushiki](skills/yasumushiki/SKILL.md) | 引き算のUI設計 | 画面を作る・直すとき |
 
+## 持ち出し用のメモ
+
+スキルではなく、他のプロジェクトへ貼って渡すための文書。
+
+| メモ | 中身 |
+|---|---|
+| [design-taste](notes/design-taste.md) | デザインの好み13項目。別プロジェクトのAIに貼って使う |
+
 ### 使い分け
 
 ```
