@@ -21,6 +21,7 @@
 | メモ | 中身 |
 |---|---|
 | [design-taste](notes/design-taste.md) | デザインの好み13項目。別プロジェクトのAIに貼って使う |
+| [git-flow](notes/git-flow.md) | 直してから公開されるまでの4段階。忘れたときに見返す |
 
 ### 使い分け
 
